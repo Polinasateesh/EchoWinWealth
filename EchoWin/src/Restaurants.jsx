@@ -128,7 +128,7 @@ const Restaurants = () => {
           
             <Card className='card-container'>
                 <div className='card-header'>
-                    <p className='card-heading'>Restaurants Details</p>
+                    <p className='card-heading'> ➡️ Restaurants Details</p>
                 </div>
 
                 <DataTable

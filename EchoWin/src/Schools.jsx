@@ -126,7 +126,7 @@ const Schools = () => {
 
             <Card className='card-container'>
                 <div className='card-header'>
-                    <p className='card-heading'>Schools Details</p>
+                    <p className='card-heading'> ➡️ Schools Details</p>
 
                 </div>
 

@@ -104,7 +104,7 @@ const ShoppingMalls = () => {
           
             <Card className='card-container'>
                 <div className='card-header'>
-                    <p className='card-heading'>Shopping-Malls Details</p>
+                    <p className='card-heading'> ➡️ Shopping-Malls Details</p>
                 </div>
 
                 <DataTable
